@@ -42,7 +42,7 @@
 	   font-weight="bold"/>
 
     <subtitle/>
-
+    <mediaobject/>
     <corpauthor space-before="0.5em"
                 font-size="&hsize2;"/>
     <authorgroup space-before="0.5em"
@@ -100,6 +100,7 @@
     <subtitle
 	      font-family="{$title.fontset}"
 	      text-align="center"/>
+    <mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -144,6 +145,7 @@
 		font-size="&hsize4;"
 		space-before="&hsize4space;"
 		font-family="{$title.fontset}"/>
+      <mediaobject/>
       <corpauthor font-size="&hsize3;"
 		  keep-with-next.within-column="always"
 		  space-before="2in"/>
@@ -240,6 +242,7 @@
 	      font-weight="bold"
 	      font-style="italic"
 	      font-family="{$title.fontset}"/>
+<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -282,6 +285,7 @@
     <subtitle
 	      font-family="{$title.fontset}"
 	      text-align="center"/>
+<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -495,6 +499,7 @@
 	     font-weight="bold"/>
       <subtitle
 		font-family="{$title.fontset}"/>
+<mediaobject/>
       <corpauthor/>
       <authorgroup/>
       <author/>
@@ -536,6 +541,7 @@
 		font-style="italic"
 		font-size="&hsize2;"
 		font-weight="bold"/>
+<mediaobject/>
 
       <corpauthor  space-before="0.5em"
 	           space-after="0.5em"
@@ -586,6 +592,7 @@
 	     font-family="{$title.fontset}"/>
       <subtitle
 		font-family="{$title.fontset}"/>
+      <mediaobject/>
       <corpauthor/>
       <authorgroup/>
       <author/>
@@ -622,6 +629,7 @@
 	   font-family="{$title.fontset}"/>
     <subtitle
 	      font-family="{$title.fontset}"/>
+<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -656,6 +664,7 @@
 	   font-family="{$title.fontset}"/>
     <subtitle
 	      font-family="{$title.fontset}"/>
+<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -690,6 +699,7 @@
 	   font-family="{$title.fontset}"/>
     <subtitle
 	      font-family="{$title.fontset}"/>
+    <mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -724,6 +734,7 @@
 	   font-family="{$title.fontset}"/>
     <subtitle
 	      font-family="{$title.fontset}"/>
+<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -758,6 +769,7 @@
 	   font-family="{$title.fontset}"/>
     <subtitle
 	      font-family="{$title.fontset}"/>
+    <mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -792,6 +804,7 @@
 	   font-family="{$title.fontset}"/>
     <subtitle
 	      font-family="{$title.fontset}"/>
+    <mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -826,6 +839,7 @@
 	   font-family="{$title.fontset}"/>
     <subtitle
 	      font-family="{$title.fontset}"/>
+    <mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -860,6 +874,7 @@
 	   font-family="{$title.fontset}"/>
     <subtitle
 	      font-family="{$title.fontset}"/>
+    <mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -894,6 +909,7 @@
 	   font-family="{$title.fontset}"/>
     <subtitle
 	      font-family="{$title.fontset}"/>
+    <mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -928,6 +944,7 @@
 	   font-family="{$title.fontset}"/>
     <subtitle
 	      font-family="{$title.fontset}"/>
+    <mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -1257,6 +1274,7 @@
 	   font-weight="bold"/>
 
     <subtitle/>
+    <mediaobject/>
 
     <corpauthor space-before="0.5em"
                 font-size="&hsize2;"/>

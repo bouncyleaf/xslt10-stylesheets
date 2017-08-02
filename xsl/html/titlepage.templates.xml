@@ -9,6 +9,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -42,6 +43,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -75,6 +77,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -111,6 +114,7 @@
            t:named-template="division.title"
            param:node="ancestor-or-self::part[1]"/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -141,6 +145,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -173,6 +178,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -277,6 +283,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -309,6 +316,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -339,6 +347,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -371,6 +380,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -403,6 +413,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -434,6 +445,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -465,6 +477,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -496,6 +509,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -527,6 +541,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -558,6 +573,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
@@ -589,6 +605,7 @@
   <t:titlepage-content t:side="recto">
     <title/>
     <subtitle/>
+		<mediaobject/>
     <corpauthor/>
     <authorgroup/>
     <author/>
