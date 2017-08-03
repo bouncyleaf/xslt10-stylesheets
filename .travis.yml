@@ -34,7 +34,7 @@ script:
 after_success:
 # Update CDN
 - |
-   if [ "$TRAVIS_REPO_SLUG" = "docbook/xslt10-stylesheets" -a \
+   if [ "$TRAVIS_REPO_SLUG" = "bouncyleaf/xslt10-stylesheets" -a \
         "$TRAVIS_PULL_REQUEST" = "false" ]; then
      export GH_TOKEN
      .travis/publish-release.sh
@@ -45,7 +45,7 @@ before_deploy:
 - git config --global user.name "Travis CI"
 - export GIT_TAG=snapshot/$(date -u "+%Y-%m-%d")-$TRAVIS_BUILD_NUMBER
 - git tag $GIT_TAG -a -m "Generated tag from TravisCI build $TRAVIS_BUILD_NUMBER"
-- git push https://$GITHUBTOKEN@github.com/docbook/xslt10-stylesheets $GIT_TAG > /dev/null 2>&1
+- git push https://$GITHUBTOKEN@github.com/bouncyleaf/xslt10-stylesheets $GIT_TAG > /dev/null 2>&1
 
 deploy:
   provider: releases
